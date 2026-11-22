@@ -1,0 +1,11 @@
+# CMake
+/build/
+/build-*/
+/cmake-build-*/
+
+# Editor configuration files
+/.idea/
+/.vscode/
+
+# MacOS
+.DS_Store
