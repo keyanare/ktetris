@@ -1,6 +1,6 @@
 # kTetris
 
-A small falling-block game written on C with raylib.
+A small falling-block game written in C with raylib.
 
 ![kTetris gameplay](docs/screenshot.png)
 
